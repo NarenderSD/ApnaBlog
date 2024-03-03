@@ -14,7 +14,7 @@ function Footer() {
               </div>
               <div>
                 <p className="text-sm text-gray-200">
-                  &copy; Copyright 2023. All Rights Reserved by Mega Blog.
+                  &copy; Copyright 2024. All Rights Reserved by Apna Blog
                 </p>
               </div>
             </div>
@@ -128,7 +128,7 @@ function Footer() {
                     className=" text-base font-medium text-gray-200 hover:text-gray-300"
                     to="/"
                   >
-                    Licensing
+                    Narender Singh
                   </Link>
                 </li>
               </ul>
